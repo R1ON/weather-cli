@@ -1,0 +1,16 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "simple weather-cli application",
+  "bin": {
+    "weather": "index.js"
+  },
+  "type": "module",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
